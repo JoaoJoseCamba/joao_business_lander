@@ -84,7 +84,7 @@ export default function ServiceSection() {
       <ModalVideo
         channel="youtube"
         isOpen={videoOpen}
-        videoId="H1HdZFgR-aA"
+        videoId=""
         onClose={() => setVideoOpen(false)}
       />
     </section>
